@@ -19,7 +19,7 @@
    <a href = "mailto:gustavo.negrini7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
    <a href="https://instagram.com/gu_negrini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- 
+  <a href="https://wa.me/+5515996568756" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  
   ![Snake animation](https://github.com/gunegrini/gunegrini/blob/output/github-contribution-grid-snake.svg)
  
