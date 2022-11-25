@@ -1,4 +1,4 @@
-## Oii Eu Sou o Gustavo Negrini Estudante de JavaScript!
+## Oii Eu Sou o Gustavo Negrini Estudante de JavaScript, e estou em busca de uma oportunidade para migrar para o Desenvolvimento!
 <div align="center">
   <a href="https://github.com/gunegrini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gunegrini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
