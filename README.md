@@ -12,7 +12,7 @@
   <img align="center" alt="Gu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg">
   <img align="center" alt="Gu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Gu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Gu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rest/rest-original.svg">
+  <img align="center" alt="Gu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/restapi/restapi-original.svg">
 
 </div>
   
