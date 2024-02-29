@@ -16,6 +16,7 @@ Sou apaixonado por desenvolvimento de software e tenho experiência em várias t
   <img align="center" alt="Gu-Hibernate" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain.svg">
   <img align="center" alt="Gu-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Gu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg">
+  <img align="center" alt="Gu-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Gu-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Gu-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Gu-Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
