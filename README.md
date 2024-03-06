@@ -3,7 +3,7 @@
 ## Sobre Mim
 Sou apaixonado por desenvolvimento de software e tenho experiência em várias tecnologias, incluindo Java, Spring, Hibernate, Docker, entre outras.
 
-## Estatísticas do GitHub
+## Estatísticas do GitHub 📊
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gunegrini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunegrini&layout=compact&langs_count=7&theme=dracula"/>
