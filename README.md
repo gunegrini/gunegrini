@@ -20,6 +20,7 @@ Sou apaixonado por desenvolvimento de software e tenho experiência em várias t
   <img align="center" alt="Gu-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Gu-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Gu-Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="Gu-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
 ## Contato
