@@ -9,7 +9,7 @@ Sou apaixonado por desenvolvimento de software e tenho experiência em várias t
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunegrini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Tecnologias Java
+## Tecnologias Java ☕
 <div style="display: inline_block"><br>
   <img align="center" alt="Gu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Gu-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
@@ -17,7 +17,7 @@ Sou apaixonado por desenvolvimento de software e tenho experiência em várias t
   <img align="center" alt="Gu-JUnit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg">
 </div>
 
-## Outras Tecnologias
+## Outras Tecnologias 🌐
 <div style="display: inline_block"><br>
   <img align="center" alt="Gu-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Gu-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -29,7 +29,7 @@ Sou apaixonado por desenvolvimento de software e tenho experiência em várias t
   <img align="center" alt="Gu-Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
 </div>
 
-## Ferramentas de IDE que Utilizo
+## Ferramentas de IDE que Utilizo 💻
 <div style="display: inline_block"><br>
 <img align="center" alt="Gu-Eclipse" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
 <img align="center" alt="Gu-Intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
@@ -37,12 +37,12 @@ Sou apaixonado por desenvolvimento de software e tenho experiência em várias t
 <img align="center" alt="Gu-VsCode2022" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
-## Contato
+## Contato 📱
 <div> 
    <a href="https://www.linkedin.com/in/gustavonegrinim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href = "mailto:gustavo.negrini7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://instagram.com/gu_negrini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-## Atividade
+## Atividade 🏃
 ![Snake animation](https://github.com/gunegrini/gunegrini/blob/output/github-contribution-grid-snake.svg)
