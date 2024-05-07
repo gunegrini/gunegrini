@@ -14,6 +14,7 @@ Sou apaixonado por desenvolvimento de software e tenho experiência em várias t
   <img align="center" alt="Gu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Gu-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Gu-Hibernate" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain.svg">
+  <img align="center" alt="Gu-JUnit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg">
 </div>
 
 ## Outras Tecnologias
@@ -21,7 +22,7 @@ Sou apaixonado por desenvolvimento de software e tenho experiência em várias t
   <img align="center" alt="Gu-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Gu-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Gu-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Gu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg">
+  <img align="center" alt="Gu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gu-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Gu-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Gu-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
