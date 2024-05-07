@@ -12,6 +12,7 @@ Sou apaixonado por desenvolvimento de software e tenho experiência em várias t
 ## Tecnologias que Domino
 <div style="display: inline_block"><br>
   <img align="center" alt="Gu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Gu-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/charp/csharp-original.svg">
   <img align="center" alt="Gu-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Gu-Hibernate" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain.svg">
   <img align="center" alt="Gu-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
