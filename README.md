@@ -29,7 +29,7 @@ Sou apaixonado por desenvolvimento de software e tenho experiência em várias t
   <img align="center" alt="Gu-Jenkins" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
 </div>
 
-## Ferramentas de IDE que Utilizo 💻
+## Ferramentas de IDE 💻
 <div style="display: inline_block"><br>
 <img align="center" alt="Gu-Eclipse" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
 <img align="center" alt="Gu-Intellij" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
