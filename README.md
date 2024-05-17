@@ -1,4 +1,4 @@
-# Olá, Eu Sou o Gustavo Negrini, Desenvolvedor Back-end Java!
+# Olá, Eu Sou o Gustavo Negrini, Desenvolvedor Back-end!
 
 ## Sobre Mim
 Sou apaixonado por desenvolvimento de software e tenho experiência em várias tecnologias, incluindo Java, Spring, Hibernate, Docker, entre outras.
