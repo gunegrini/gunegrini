@@ -39,9 +39,12 @@ Sou apaixonado por desenvolvimento de software e tenho experiência em várias t
 
 ## Contato 📱
 <div> 
-   <a href="https://www.linkedin.com/in/gustavonegrinim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gustavonegrinim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://gunegrini.com" target="_blank"><img src="https://img.shields.io/badge/-Website-%2300ff08?style=for-the-badge&logo=link&logoColor=white&labelColor=000000"></a>
    <a href = "mailto:gustavo.negrini7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://instagram.com/gu_negrini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</a>
+
 </div>
 
 ## Atividade 🏃
