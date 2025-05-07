@@ -62,4 +62,4 @@ Sou apaixonado por desenvolvimento de software e tenho experiência em várias t
 </div>
 
 ## Atividade 🏃
-![Snake animation](https://github.com/gunegrini/gunegrini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/gunegrini/gunegrini/output/github-contribution-grid-snake.svg)
