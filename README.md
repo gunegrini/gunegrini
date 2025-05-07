@@ -10,14 +10,15 @@ Sou apaixonado por desenvolvimento de software e tenho experiência em várias t
 </div>
 
 ## Tecnologias Java ☕
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gu-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Gu-Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Gu-Hibernate" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain.svg">
-  <img align="center" alt="Gu-JUnit" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg">
-  <img align="center" alt="Gu-Jenkins" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Gu-Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<div style="display: inline-block"><br>
+  <img align="center" alt="Gu-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Gu-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Gu-Hibernate" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg">
+  <img align="center" alt="Gu-JUnit" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg">
+  <img align="center" alt="Gu-Jenkins" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="Gu-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
+
 
 ## Bancos de Dados 🗄️
 <div style="display: inline_block"><br>
@@ -45,12 +46,12 @@ Sou apaixonado por desenvolvimento de software e tenho experiência em várias t
 
 
 ## Ferramentas de IDE 💻
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gu-Eclipse" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
-  <img align="center" alt="Gu-Intellij" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-  <img align="center" alt="Gu-Visualstudio" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg">
-  <img align="center" alt="Gu-VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Gu-AndroidStudio" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/>
+<div style="display: inline-block"><br>
+  <img align="center" alt="Gu-Eclipse" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg">
+  <img align="center" alt="Gu-IntelliJ" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+  <img align="center" alt="Gu-VisualStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Gu-VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Gu-AndroidStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
 </div>
 
 ## Contato 📱
